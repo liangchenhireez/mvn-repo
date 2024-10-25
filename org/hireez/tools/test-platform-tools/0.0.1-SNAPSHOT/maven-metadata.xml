@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.hireez.tools</groupId>
+  <artifactId>test-platform-tools</artifactId>
+  <versioning>
+    <lastUpdated>20241025080047</lastUpdated>
+    <snapshot>
+      <timestamp>20241025.080047</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20241025.080047-1</value>
+        <updated>20241025080047</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20241025.080047-1</value>
+        <updated>20241025080047</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.0.1-SNAPSHOT</version>
+</metadata>
