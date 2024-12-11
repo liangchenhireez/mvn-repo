@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.liangchen</groupId>
+  <artifactId>hireez-swagger-parse</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20241211065224</lastUpdated>
+  </versioning>
+</metadata>
