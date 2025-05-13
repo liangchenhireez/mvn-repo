@@ -3,21 +3,21 @@
   <groupId>org.hireez.tools</groupId>
   <artifactId>test-platform-tools</artifactId>
   <versioning>
-    <lastUpdated>20250213065705</lastUpdated>
+    <lastUpdated>20250513094053</lastUpdated>
     <snapshot>
-      <timestamp>20250213.065705</timestamp>
+      <timestamp>20250513.094053</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20250213.065705-1</value>
-        <updated>20250213065705</updated>
+        <value>0.0.1-20250513.094053-1</value>
+        <updated>20250513094053</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20250213.065705-1</value>
-        <updated>20250213065705</updated>
+        <value>0.0.1-20250513.094053-1</value>
+        <updated>20250513094053</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
