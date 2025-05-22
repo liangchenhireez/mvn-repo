@@ -3,21 +3,21 @@
   <groupId>com.github.liangchen</groupId>
   <artifactId>hireez-swagger-parse</artifactId>
   <versioning>
-    <lastUpdated>20250513094222</lastUpdated>
+    <lastUpdated>20250522015427</lastUpdated>
     <snapshot>
-      <timestamp>20250513.094222</timestamp>
+      <timestamp>20250522.015427</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20250513.094222-1</value>
-        <updated>20250513094222</updated>
+        <value>0.0.1-20250522.015427-1</value>
+        <updated>20250522015427</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20250513.094222-1</value>
-        <updated>20250513094222</updated>
+        <value>0.0.1-20250522.015427-1</value>
+        <updated>20250522015427</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
